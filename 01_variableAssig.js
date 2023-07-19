@@ -1,0 +1,23 @@
+var myFullname;
+console.log(myFullname);
+myFullname = "Rahul Raut";
+console.log(myFullname);
+myFullname = "Rahul Vasantrao Raut";
+console.log(myFullname);
+var myLove = "I Love Only JS";
+console.log(myLove);
+var firstName = "Rahul";
+console.log(`firstnmae is: ${firstName}`);
+var lastName = "Raut";
+console.log(`lastName is: ${lastName}`);
+var age = 25;
+console.log(`Age: ${age}`);
+var address = "Pune";
+console.log(`address: ${address}`);
+var pin = 414243;
+console.log(`Pin: ${pin}`);
+var gender = "Male";
+console.log(`Gender: ${gender}`);
+var isMarried = "Unmarried";
+console.log(`isMarried: ${isMarried}`);
+
