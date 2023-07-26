@@ -16,6 +16,3 @@ function cal(){
     console.log(`String*Words is ${ln*words}`);
 }
 cal();
-console.log(`************************TASK 3**************************`);
-
-
