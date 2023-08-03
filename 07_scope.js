@@ -23,9 +23,4 @@ let sum = function(){
 }
 sum();
 
-if(index%2!==0){
-  console.log(char)
-}
 
-str = "rahul V raut"
-str.
