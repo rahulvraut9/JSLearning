@@ -17,3 +17,8 @@ sort.push(array[i]);
     }
 }
 console.log(sort)
+
+// 👉 Option 2
+    // if (result.indexOf(item) === -1) {
+    //   result.push(item);
+    // }
