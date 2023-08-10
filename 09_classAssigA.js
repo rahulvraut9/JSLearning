@@ -39,7 +39,7 @@ clg.display();
 let clg4 =  new College("SPP,Jalna","Dhmal Prashant","B.Tec",2040);
 clg.display();
 
-console.log(`---------------------Task 3---------------------------`);
+console.log(`---------------------Task 3---------------------------`);  
 function traverseObject(obj){
   for (const key in obj) {
     if (Object.hasOwnProperty.call(obj, key)) {
@@ -48,6 +48,6 @@ function traverseObject(obj){
     }
   }
 }
-traverseObject(clg);
+traverseObject(clg); 
 
 
