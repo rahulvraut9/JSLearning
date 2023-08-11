@@ -38,10 +38,4 @@ console.log(`Key : ${key} values :${element}`);
 
 
 
-    // for (const key in sbiDetails) {
-    //   if (Object.hasOwnProperty.call(sbiDetails, key)) {
-    //       const element = sbiDetails[key];
-    //       console.table(`Key : ${key} --------- Values : ${element}`)  
-    //   }
-    // }
-  
+   
