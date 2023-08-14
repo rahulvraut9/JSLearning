@@ -1,0 +1,10 @@
+{
+  "rollNo": 123,
+  "fullname": "Jenny Jobs",
+  "marks": "90%",
+  "award": {
+    "hsc": "school topper",
+    "ssc": "Division topper",
+    "graduation": "gold medelist"
+  }
+}
