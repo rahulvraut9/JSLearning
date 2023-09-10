@@ -22,5 +22,12 @@ class Student {
 
   const newStudet = arrayStudent.filter((student)=>{
     return student.emailId.length >13;
-  });
+});
+  console.log(`Email List Grater Than 13`);
   console.table(newStudet);
+
+  const rollStudet = arrayStudent.filter((student)=>{
+    return student.rollNo >40;
+  });
+  console.log(`Students List has RollNo is grater than 40`);
+  console.table(rollStudet);
